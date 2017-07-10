@@ -2,6 +2,17 @@
     /*border: 1px solid red;*/
 }
 
+.row {
+
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+}
+
 .header {
     display: flex;
     justify-content: center;
@@ -10,15 +21,17 @@
     background-color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-bottom: 1%;
+    border-radius: 15px;
 }
 
 .paragraph {
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .main-image {
-    margin-left: 2%;
-
-
+    background-image: url(images/Animal-Crafts);
+    height: 500px;
+    width: 80%;
+    border-radius: 15px;
 }
