@@ -1,0 +1,24 @@
+.container {
+    /*border: 1px solid red;*/
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+    color: white;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1%;
+}
+
+.paragraph {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.main-image {
+    margin-left: 2%;
+
+
+}
